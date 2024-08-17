@@ -1,7 +1,7 @@
 # prepare template from source
 bunx
 ```bash
-bunx diget https://github.com/hecool108/tiger-backend-ts  your-app-name
+bunx degit https://github.com/hecool108/tiger-backend-ts  your-app-name
 cd your-app-name
 ```
 
